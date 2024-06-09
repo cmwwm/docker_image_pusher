@@ -1,5 +1,2 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
+openjdk:17-jdk-alpine
+openjdk:8-jdk-alpine
